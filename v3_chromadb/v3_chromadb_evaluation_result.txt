@@ -1,0 +1,543 @@
+Question 1: What are the essential elements of a valid contract under the Indian Contract Act, 1872?
+
+Answer:
+Based on the provided document, all agreements are contracts if they meet the following essential elements:
+1. They are made by the free consent of the parties (Section 10, p. 13).
+2. The parties are competent to contract (Section 10, p. 13).
+3. They are made for a lawful consideration (Section 10, p. 13).
+4. They are made with a lawful object (Section 10, p. 13).
+5. They are not expressly declared to be void by the Act (Section 10, p. 13).
+
+Additionally, nothing contained in the law affects any law in force in India (and not expressly repealed) that requires any contract to be made in writing, in the presence of witnesses, or any law relating to the registration of documents (Section 10, p. 13).
+
+*Disclaimer: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 1
+Trace Status: Success
+App Latency: 6.07 seconds
+Input Tokens: 1074
+Output Tokens: 218
+Total Tokens: 1292
+Estimated Cost: $0.000867
+LLM Latency: 5.93 seconds
+================================================================================
+
+Question 2: How does the Indian Contract Act define a proposal and an acceptance?
+
+Answer:
+Based on the provided document, a proposal and an acceptance are defined as follows:
+
+* **Proposal:** A person is said to make a proposal when they signify to another person their willingness to do or to abstain from doing anything, with a view to obtaining the assent of that other person to such act or abstinence (p. 11).
+* **Acceptance:** When the person to whom the proposal is made signifies their assent to it, the proposal is said to be accepted, and an accepted proposal becomes a promise (p. 11). Furthermore, for an acceptance to convert a proposal into a promise, it must be absolute and unqualified, and expressed in some usual and reasonable manner (unless a specific manner is prescribed by the proposal) (p. 11).
+
+*Disclaimer: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 2
+Trace Status: Success
+App Latency: 3.28 seconds
+Input Tokens: 983
+Output Tokens: 187
+Total Tokens: 1170
+Estimated Cost: $0.000762
+LLM Latency: 3.28 seconds
+================================================================================
+
+Question 3: Can a contract be legally valid if it is made verbally rather than in writing under Indian law?
+
+Answer:
+Based on the provided document, the law does not affect any law in force in India that requires a contract to be made in writing, in the presence of witnesses, or to be registered (Section 10, p. 13). However, the text provided does not contain a general statement on whether all contracts can be legally valid if made verbally, as it only specifies that nothing in Section 10 affects existing laws that specifically require contracts to be in writing, before witnesses, or registered (Section 10, p. 13). 
+
+Therefore, I could not find a complete answer to whether any contract can be validly made verbally in all circumstances in the provided document (Section 10, p. 13). 
+
+*(Note: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.)*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 3
+Trace Status: Success
+App Latency: 4.60 seconds
+Input Tokens: 931
+Output Tokens: 183
+Total Tokens: 1114
+Estimated Cost: $0.000737
+LLM Latency: 4.60 seconds
+================================================================================
+
+Question 4: What is the difference between a void agreement and a voidable contract under the Indian Contract Act?
+
+Answer:
+I could not find this in the provided document. 
+
+*(Note: This is general legal information, not legal advice. I recommend consulting a qualified lawyer for advice about a specific case.)*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 4
+Trace Status: Success
+App Latency: 4.43 seconds
+Input Tokens: 996
+Output Tokens: 39
+Total Tokens: 1035
+Estimated Cost: $0.000396
+LLM Latency: 4.43 seconds
+================================================================================
+
+Question 5: Who is competent to contract under Section 11 of the Indian Contract Act?
+
+Answer:
+Under Section 11 of the Indian Contract Act, every person is competent to contract who:
+1. Is of the age of majority according to the law to which they are subject;
+2. Is of sound mind; and
+3. Is not disqualified from contracting by any law to which they are subject.
+
+(Section 11, p. 13)
+
+*Disclaimer: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 5
+Trace Status: Success
+App Latency: 4.75 seconds
+Input Tokens: 986
+Output Tokens: 106
+Total Tokens: 1092
+Estimated Cost: $0.000561
+LLM Latency: 4.75 seconds
+================================================================================
+
+Question 6: What is free consent, and how does coercion affect the validity of a contract?
+
+Answer:
+Based on the provided context, here is the explanation of free consent and how coercion affects contracts:
+
+### **What is "Free Consent"?**
+According to the law, consent means when two or more persons agree upon the same thing in the same sense (Section 13). 
+
+Consent is considered **"free"** when it is not caused by any of the following factors:
+1. Coercion (as defined in section 15)
+2. Undue influence (as defined in section 16)
+3. Fraud (as defined in section 17)
+4. Misrepresentation (as defined in section 18)
+5. Mistake (subject to the provisions of sections 20, 21, and 22)
+
+Consent is considered to be caused by one of these elements if the person would not have given their consent had that coercion, undue influence, fraud, misrepresentation, or mistake not existed (Section 14).
+
+### **How Coercion Affects a Contract**
+* **Definition of Coercion:** Coercion is defined as committing or threatening to commit any act forbidden by the Indian Penal Code, or unlawfully detaining (or threatening to detain) any property to the prejudice of any person, with the intention of causing someone to enter into an agreement (Section 15).
+* **Effect on Validity:** While the exact text detailing the legal consequences of coercion on a contract's validity is cut off, the context lists "Voidability of agreements without free consent" under Section 19, indicating that agreements entered into without free consent (such as those caused by coercion) are affected in their legal enforceability. 
+
+***
+
+*Disclaimer: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 6
+Trace Status: Success
+App Latency: 5.79 seconds
+Input Tokens: 968
+Output Tokens: 379
+Total Tokens: 1347
+Estimated Cost: $0.001238
+LLM Latency: 5.79 seconds
+================================================================================
+
+Question 7: What is the difference between fraud and misrepresentation under the Indian Contract Act?
+
+Answer:
+Based on the provided context, here is the information available regarding fraud and misrepresentation:
+
+* **Misrepresentation** includes:
+  1. Positive assertion, in a manner not warranted by the information of the person making it, of that which is not true, though he believes it to be true (p. 1).
+  2. Any breach of duty which, without an intent to deceive, gains an advantage to the person committing it (or anyone claiming under him) by misleading another to his prejudice or the prejudice of anyone claiming under him (p. 1).
+  3. Causing, however innocently, a party to an agreement to make a mistake as to the substance of the thing which is the subject of the agreement (p. 1).
+
+* **Fraud** means and includes any of the following acts committed by a party to a contract, or with his connivance, or by his agent, with intent to deceive another party thereto or his agent, or to induce him to enter into the contract (p. 2):
+  1. The suggestion, as a fact, of that which is not true, by one who does not believe it to be true (p. 2).
+  2. The active concealment of a fact by one having knowledge or belief of the fact (p. 2).
+  3. A promise made without any intention of performing it (p. 2).
+  4. Any other act fitted to deceive (p. 2).
+  5. Any such act or omission as the law specially declares to be fraudulent (p. 2).
+
+*(Note: The provided context does not explicitly list any further legal differences beyond these definitions and the provisions relating to voidability under Section 19).*
+
+***
+
+*Disclaimer: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 7
+Trace Status: Success
+App Latency: 6.92 seconds
+Input Tokens: 970
+Output Tokens: 392
+Total Tokens: 1362
+Estimated Cost: $0.001271
+LLM Latency: 6.91 seconds
+================================================================================
+
+Question 8: What is the difference between liquidated damages and a penalty under Section 74 of the Indian Contract Act?
+
+Answer:
+I could not find this in the provided document.
+
+*(Note: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.)*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 8
+Trace Status: Success
+App Latency: 5.43 seconds
+Input Tokens: 1026
+Output Tokens: 40
+Total Tokens: 1066
+Estimated Cost: $0.000408
+LLM Latency: 5.42 seconds
+================================================================================
+
+Question 9: What is the difference between a contract of indemnity and a contract of guarantee?
+
+Answer:
+Based on the provided context:
+
+* A **contract of guarantee** is defined as a contract to perform the promise, or discharge the liability, of a third person in case of his default. It involves three parties: the surety (who gives the guarantee), the principal debtor (in respect of whose default the guarantee is given), and the creditor (to whom the guarantee is given). A guarantee may be either oral or written (Section 126).
+* The provided text defines what constitutes consideration for a guarantee (Section 127) and outlines the rights of an indemnity-holder when sued (Section 125), but it does not provide a comprehensive comparative definition explaining the full difference between a contract of indemnity and a contract of guarantee. 
+
+*(Note: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.)*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 9
+Trace Status: Success
+App Latency: 3.65 seconds
+Input Tokens: 968
+Output Tokens: 184
+Total Tokens: 1152
+Estimated Cost: $0.000750
+LLM Latency: 3.64 seconds
+================================================================================
+
+Question 10: A person borrows money from a friend and promises to repay it in three months but later refuses. What provisions of the Indian Contract Act apply, and what evidence can establish the agreement under the Bharatiya Sakshya Adhiniyam, 2023?
+
+Answer:
+Based on the provided context, an agreement made without consideration is generally a void agreement, as illustrated by the example where a person promises for no consideration to give someone money (p. 18). However, the context outlines specific exceptions where a promise without consideration can still be a contract, such as when it is a promise made in writing and signed by the person to be charged (or their agent) to pay wholly or in part a debt of which the creditor might have enforced payment but for the law for the limitation of suits (p. 18). 
+
+Regarding your question about evidence that can establish the agreement under the Bharatiya Sakshya Adhiniyam, 2023, **I could not find this in the provided document.** The provided text does not mention the Bharatiya Sakshya Adhiniyam, 2023.
+
+*Please note: This is general legal information, not legal advice. It is recommended that you consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 10
+Trace Status: Success
+App Latency: 4.79 seconds
+Input Tokens: 1013
+Output Tokens: 206
+Total Tokens: 1219
+Estimated Cost: $0.000819
+LLM Latency: 4.79 seconds
+================================================================================
+
+Question 11: A buyer pays an advance for goods but the seller does not deliver. What remedies are available under the Indian Contract Act and the Consumer Protection Act, 2019?
+
+Answer:
+Based on the provided context, here is the legal position:
+
+* **Compensation for Breach of Contract:** When a contract has been broken, the party who suffers by the breach is entitled to receive compensation from the party who broke the contract for any loss or damage caused to them. This includes loss or damage that naturally arose in the usual course of things from the breach, or which the parties knew, when they made the contract, to be likely to result from it (Section 73).
+* **Rightful Rescission:** A person who rightfully rescinds a contract is entitled to compensation for any damage they have sustained through the non-fulfilment of the contract (Section 75).
+
+The provided context does **not** contain information about the Consumer Protection Act, 2019, nor does it specifically mention remedies for an advance payment where a seller fails to deliver (other than the general rules on breach and compensation). Therefore, I could not find information regarding the Consumer Protection Act in the provided document.
+
+*Disclaimer: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.*
+
+**Citations:**
+* (Section 73)
+* (Section 75)
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 11
+Trace Status: Success
+App Latency: 2.86 seconds
+Input Tokens: 1010
+Output Tokens: 258
+Total Tokens: 1268
+Estimated Cost: $0.000948
+LLM Latency: 2.86 seconds
+================================================================================
+
+Question 12: What is the definition of 'consumer' under the Consumer Protection Act, 2019?
+
+Answer:
+Based on the provided document, a "consumer" is defined as any person who:
+
+1. Buys any goods for a consideration that has been paid or promised, or partly paid and partly promised, or under any system of deferred payment. This includes any user of such goods (other than the person who actually buys them for consideration) when the use is made with the approval of the buyer. However, it does not include a person who obtains goods for resale or for any commercial purpose (Section 7(i), p. 1).
+2. Hires or avails of any service for a consideration that has been paid or promised, or partly paid and partly promised, or under any system of deferred payment. This includes any beneficiary of the service (other than the person who hires or avails of the services for consideration) when the services are availed of with the approval of the person who hired or availed of them. However, it does not include a person who avails of the service for any commercial purpose (Section 7(ii), p. 1; repeated context on p. 1).
+
+**Additional Clarifications from the Explanation:**
+* The term "commercial purpose" does not include the use of goods bought and used by a person exclusively for the purpose of earning their livelihood by means of self-employment (p. 1).
+* The expressions "buys any goods" and "hires or avails any services" include offline or online transactions through electronic means, teleshopping, direct selling, or multi-level marketing (p. 1).
+
+***
+
+*Disclaimer: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 12
+Trace Status: Success
+App Latency: 3.49 seconds
+Input Tokens: 903
+Output Tokens: 352
+Total Tokens: 1255
+Estimated Cost: $0.001151
+LLM Latency: 3.49 seconds
+================================================================================
+
+Question 13: What are the rights of a Data Principal under the Digital Personal Data Protection Act, 2023?
+
+Answer:
+Based on the provided context, the rights of a Data Principal include:
+
+1. **Right to Correction and Erasure of Personal Data:** 
+   A Data Principal has the rights to:
+   - Correct inaccurate or misleading personal data (Section [unnumbered], p. 1).
+   - Complete incomplete personal data (Section [unnumbered], p. 1).
+   - Update personal data (Section [unnumbered], p. 1).
+   - Make a request in a prescribed manner to a Data Fiduciary for the erasure of her personal data. Upon such a request, the Data Fiduciary must erase the personal data unless retaining it is necessary for a specified purpose or to comply with any law currently in force (Section [unnumbered], p. 1).
+
+2. **Right of Grievance Redressal:**
+   - A Data Principal has the right to have readily available means of grievance redressal provided by a Data Fiduciary or Consent Manager regarding any act or omission by them concerning the performance of their obligations regarding the Data Principal's personal data or the exercise of the Data Principal's rights (Section 13(1), p. 1).
+   - The Data Principal must exhaust this grievance redressal opportunity before approaching the Board (Section 13(3), p. 1).
+
+3. **Right to Nominate:**
+   - A Data Principal has the right to nominate another individual in a prescribed manner to exercise the Data Principal's rights under the Act and rules in the event of the Data Principal's death or incapacity (Section 14(1), p. 1). "Incapacity" is defined for this purpose as the inability to exercise the rights of the Data Principal under the Act or rules (Section 14(2), pp. 1–2).
+
+***
+
+*Disclaimer: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 13
+Trace Status: Success
+App Latency: 3.45 seconds
+Input Tokens: 808
+Output Tokens: 405
+Total Tokens: 1213
+Estimated Cost: $0.001255
+LLM Latency: 3.44 seconds
+================================================================================
+
+Question 14: What does the Bharatiya Sakshya Adhiniyam, 2023 say about the admissibility of electronic records?
+
+Answer:
+Based on the provided context, the Bharatiya Sakshya Adhiniyam, 2023 provides the following regarding the admissibility of electronic records:
+
+* **Admissibility and Legal Effect:** Nothing in the Adhiniyam shall apply to deny the admissibility of an electronic or digital record in evidence simply on the ground that it is an electronic or digital record. Subject to section 63, such a record shall have the same legal effect, validity, and enforceability as any other document (Section 61, p. 22).
+* **Proof of Contents:** The contents of electronic records may be proved in accordance with the provisions of section 63 (Section 62, p. 22).
+* **Special Provisions:** There are special provisions as to evidence relating to electronic records, and information contained in an electronic record which is printed on paper, stored, recorded, or copied may be used subject to section 63 (Section 63, p. 22).
+* **Presumption of Genuineness:** The Court shall presume the genuineness of every electronic or digital record purporting to be the Official Gazette, or purporting to be an electronic or digital record directed by any law to be kept by any person, provided it is kept substantially in the form required by law and is produced from proper custody (Section 81, p. 22). 
+
+*(Note: For the purposes of sections 81 and 93, electronic records are considered to be in proper custody if they are in the place and looked after by the person with whom such documents are required to be kept, or if the custody is proved to have a legitimate origin or the circumstances make that origin probable [Section 81, Explanation, p. 22].)*
+
+This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 14
+Trace Status: Success
+App Latency: 2.24 seconds
+Input Tokens: 792
+Output Tokens: 397
+Total Tokens: 1189
+Estimated Cost: $0.001230
+LLM Latency: 2.23 seconds
+================================================================================
+
+Question 15: How does the Bharatiya Nyaya Sanhita, 2023 define cheating, and what is the punishment?
+
+Answer:
+Based on the provided document, here is the definition and punishment for cheating:
+
+### Definition of Cheating
+A person is said to cheat when they:
+1. Deceive any person and fraudulently or dishonestly induce that person to:
+   - Deliver any property to any person, or
+   - Consent that any person shall retain any property; OR
+2. Intentionally induce the person so deceived to do or omit to do anything which they would not do or omit if they were not so deceived, where that act or omission causes or is likely to cause damage or harm to that person in body, mind, reputation, or property.
+
+*(Explanation: A dishonest concealment of facts is considered a deception under this section.)* 
+(Section 318(1), pp. 1–2)
+
+### Punishments for Cheating
+Depending on the specific circumstances of the offense, the punishments are as follows:
+* **General punishment for cheating:** Imprisonment of either description for a term that may extend to three years, or with a fine, or with both (Section 318(2), p. 1).
+* **Cheating with knowledge of causing wrongful loss:** Whoever cheats with the knowledge that they are likely to cause wrongful loss to a person whose interest in the transaction they were bound by law or a legal contract to protect: Imprisonment of either description for a term that may extend to five years, or with fine, or with both (Section 318(3), p. 1).
+* **Cheating by inducing delivery of property or valuable securities:** Whoever cheats and thereby dishonestly induces the deceived person to deliver any property, or to make, alter, or destroy the whole or any part of a valuable security (or anything signed, sealed, and capable of being converted into a valuable security): Imprisonment of either description for a term that may extend to seven years, and shall also be liable to fine (Section 318(4), pp. 1–2).
+
+***
+
+*Disclaimer: This is general legal information, not legal advice. It is recommended to consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 15
+Trace Status: Success
+App Latency: 2.64 seconds
+Input Tokens: 909
+Output Tokens: 451
+Total Tokens: 1360
+Estimated Cost: $0.001400
+LLM Latency: 2.63 seconds
+================================================================================
+
+Question 16: What is the procedure for registering an FIR under the Bharatiya Nagarik Suraksha Sanhita, 2023?
+
+Answer:
+Based on the provided context, the procedure for recording information relating to the commission of an offence (such as an FIR) is as follows:
+
+* **General Recording and Book Entry:** Information given to an officer shall be reduced to writing by the officer or under their direction. The substance of the information must be entered in a book kept by the officer in a form prescribed by the State Government by rules (p. 53).
+* **Offences against women under specific sections:** If the information is given by a woman against whom certain offences under the Bharatiya Nyaya Sanhita, 2023 (specifically under sections 64, 65, 66, 67, 68, 69, 70, 71, 74, 75, 76, 77, 78, 79, or 124) are alleged to have been committed or attempted:
+  * The information must be recorded by a woman police officer or any woman officer (p. 53).
+  * **For temporarily or permanently mentally or physically disabled victims:** If the victim is disabled, the information must be recorded by a police officer at the victim's residence or a convenient place of their choice, in the presence of an interpreter or a special educator (p. 53).
+  * **Videography:** The recording of such information must be videographed (p. 53).
+  * **Statement before a Magistrate:** The police officer must get the statement of the person recorded by a Magistrate under section 183(6)(a) as soon as possible (p. 53).
+* **Copy to Informant/Victim:** A copy of the recorded information must be given forthwith and free of cost to the informant or the victim (p. 53).
+
+*(Note: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.)*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 16
+Trace Status: Success
+App Latency: 2.40 seconds
+Input Tokens: 1051
+Output Tokens: 415
+Total Tokens: 1466
+Estimated Cost: $0.001353
+LLM Latency: 2.40 seconds
+================================================================================
+
+Question 17: What is the procedure for obtaining a divorce under the Hindu Marriage Act, 1955?
+
+Answer:
+I could not find this in the provided document. 
+
+*Disclaimer: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 17
+Trace Status: Success
+App Latency: 1.20 seconds
+Input Tokens: 793
+Output Tokens: 34
+Total Tokens: 827
+Estimated Cost: $0.000323
+LLM Latency: 1.15 seconds
+================================================================================
+
+Question 18: What are the legal requirements for registering a private limited company under the Companies Act, 2013?
+
+Answer:
+I could not find this in the provided document.
+
+*Disclaimer: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 18
+Trace Status: Success
+App Latency: 1.20 seconds
+Input Tokens: 918
+Output Tokens: 36
+Total Tokens: 954
+Estimated Cost: $0.000365
+LLM Latency: 1.20 seconds
+================================================================================
+
+Question 19: What is the punishment for cyber fraud under the Information Technology Act, 2000?
+
+Answer:
+I could not find this in the provided document.
+
+*(Note: This is general legal information, not legal advice. Please consult a qualified lawyer for advice about a specific case.)*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 19
+Trace Status: Success
+App Latency: 1.15 seconds
+Input Tokens: 914
+Output Tokens: 37
+Total Tokens: 951
+Estimated Cost: $0.000367
+LLM Latency: 1.15 seconds
+================================================================================
+
+Question 20: Who won the 2011 Cricket World Cup?
+
+Answer:
+I could not find this in the provided document.
+
+*Disclaimer: This is general legal information, not legal advice. I recommend consulting a qualified lawyer for advice about a specific case.*
+
+--------------------------------------------------------------------------------
+LANGSMITH REQUEST METRICS
+--------------------------------------------------------------------------------
+Project: v3_chromadb
+Run Name: v3_chromadb Question 20
+Trace Status: Success
+App Latency: 1.10 seconds
+Input Tokens: 350
+Output Tokens: 37
+Total Tokens: 387
+Estimated Cost: $0.000198
+LLM Latency: 1.10 seconds
+================================================================================
+

@@ -1,0 +1,29 @@
+# Environment variables
+.env
+.env.*
+legal/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Vector databases
+v2_faiss/faiss_index/
+v3_chromadb/chroma_db/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Folders
+v4_reranking/
