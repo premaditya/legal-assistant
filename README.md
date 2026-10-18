@@ -93,9 +93,6 @@ legal-assistant/
 ├── data/
 │   └── Legal PDF documents
 │
-├── legal/
-│   └── Shared legal project files
-│
 ├── v1_langchain/
 │   └── main.py
 │
